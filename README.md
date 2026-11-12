@@ -40,4 +40,4 @@ Veja a [revisão inicial](docs/revisao-inicial.md).
 
 ## Licença
 
-Consulte o arquivo [LICENSE](LICENSE).
+[MIT](LICENSE).
